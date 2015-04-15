@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="128" height="128" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="default" tilewidth="32" tileheight="32">
+  <image source="../../res/Tilesets/default.png" width="256" height="5024"/>
+ </tileset>
+ <layer name="bg" width="128" height="128">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3DAQ0AAAzDoM6/6Qs5JKyaqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq7x+e3FbSAAABAA==
+  </data>
+ </layer>
+ <layer name="mask1" width="128" height="128">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3OQQ0AAAgEIPs382kjY9x0kIAqAAAAAAAAAAAAAAAAAAAAAAAA4JtOB4iadAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOGsBmQG3HAAAAQA=
+  </data>
+ </layer>
+ <layer name="mask2" width="128" height="128">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3SMQrDMBAEwHu1fuguyZucFCqiysYOK5Q5GBCHioW9VlUNAAAuqAkykO2/TzoL7oBc9+ObtfU5uud/9Enn4Hf93vGHdfVJ5yB7A+kMZHqvCXIAAAAAAAAAAAAA8G07KZ0X/ZPpXv/reLw9Dxj7/+xeE+QHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGA+O9uPYd0AAAEA
+  </data>
+ </layer>
+ <layer name="mask3" width="128" height="128">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3SoQ0AQAgDQPafg0HfEvICDXeqqW0jAAAAAAAAAAAAAAAAAAAAAADYKocdu+Qn99394AY7U/kDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAATDznD8X0AAAEA
+  </data>
+ </layer>
+ <layer name="fringe1" width="128" height="128">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3IMRUAIAxDQeqLkRH/ejCQCijvbvrJWgAAAAAAAAAAAAAAAAAAAAAA/GJX7rS7j7lO5U67+5jrVu60uw8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAB+4WYKAAAAQA=
+  </data>
+ </layer>
+ <layer name="fringe2" width="128" height="128">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3RsQ3AIBADwGclQgXsP1d+AIRoSe4kV3bnCAAAAAAAAAAAAAAAAAAAAAAAvqCWiCfTylm323Ofnj+OzFz8uep2ewAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7rBX1dliUAAAEA
+  </data>
+ </layer>
+ <layer name="cover1" width="128" height="128">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3RMQ0AMAzAsI4/2FHoMQL7Y0tBkBkAAAAAAAAAAAAAAAAAAAAAyu550eR/m/9t/rf53+Z/m/9t/rf5DwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPxa1FEqOgAAAQA=
+  </data>
+ </layer>
+ <layer name="cover2" width="128" height="128">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3TQQqAQAwDwK7g3jz6/z+q1xX7iwqdgdwDIREAAAAAAAAAAAAAAAAAAAAAQGfHVt2ASqf921oj4h3VLaiy5/en/wO0cmXuzFNdBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDf+wDXPdlHAAABAA==
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <basedir path="res" />
+    <image key="player" file="/img/player.png" />
+    <image key="bg" file="/img/bg.png" />
+    
+    <sheet key="rmxp" file="/sprite/rmxp.png" width="32" height="64" />
+</resources>
